@@ -7,7 +7,7 @@ using namespace std;
 int
 main()
 {
-    cout << "hello world" << endl;
+    cout << "hello Leo" << endl;
 
 
     return 0; // everything is ok
